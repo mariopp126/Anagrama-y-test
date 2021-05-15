@@ -1,0 +1,13 @@
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.exe
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.deps.json
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.runtimeconfig.json
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.runtimeconfig.dev.json
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.dll
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\bin\Debug\netcoreapp3.1\Anagrama y Test.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.AssemblyInfoInputs.cache
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.AssemblyInfo.cs
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.dll
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\anagrama y test\Anagrama y Test\obj\Debug\netcoreapp3.1\Anagrama y Test.genruntimeconfig.cache
